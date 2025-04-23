@@ -1,0 +1,174 @@
+{
+    "items": [
+      {
+        "id": 1,
+        "name": "Coca-Cola Classic",
+        "cost": 120,
+        "image": "https://www.coca-cola.com/content/dam/onexp/in/en/home-page-test-img/brands/coca-cola/Coke_234x700.png"
+      },
+      {
+        "id": 2,
+        "name": "Nachos with Cheese Dip",
+        "cost": 300,
+        "image": "https://media.gettyimages.com/id/1574637282/photo/nachos-chips-corn-chips-in-bowl-tortilla-chip-potato-chips-chips-corn-chips-nachos-and-dip.jpg?s=612x612&w=gi&k=20&c=_ddFX0LvNKjwn1kI9cJxf2s4EU6ofyMUHxXu1aROWqM="
+      },
+      {
+        "id": 3,
+        "name": "Sprite",
+        "cost": 120,
+        "image": "https://www.bigbasket.com/media/uploads/p/xl/251006_13-sprite-soft-drink-lime-flavoured.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Popcorn(Small)",
+        "cost": 150,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSun5W6owyQznTqIhCSRCs8_QVtK6icfd6iuw&s"
+      },
+      {
+        "id": 5,
+        "name": "Popcorn(Medium)",
+        "cost": 250,
+        "image": "https://m.media-amazon.com/images/I/41WAhcqP3sL.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Popcorn(Large)",
+        "cost": 350,
+        "image": "https://m.media-amazon.com/images/I/71WCHcFxA8L.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Pepsi",
+        "cost": 120,
+        "image": "https://thumbs.dreamstime.com/z/london-uk-june-bottle-pepsi-cola-soft-drink-white-american-multinational-food-beverage-company-background-94138787.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Mini Pizzas",
+        "cost": 450,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMxCaSnGkgqMVdLd2UDGXvkheMFxjynm7Vag&s"
+      },
+      {
+        "id": 9,
+        "name": "Diet Coke",
+        "cost": 120,
+        "image": "https://www.cokesolutions.com/content/dam/cokesolutions/us/images/Products/Diet-Coke-glass.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Mozzarella Sticks",
+        "cost": 300,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsAuvVkCM7jR_a_e80XkZRNyikWPQlWa2MGg&s"
+      },
+      {
+        "id": 11,
+        "name": "Fanta Orange",
+        "cost": 120,
+        "image": "https://m.media-amazon.com/images/I/511DZxR2FZL.jpg"
+      },
+      {
+        "id": 12,
+        "name": "French Fries",
+        "cost": 150,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJV1RVOmJGwrWjio1p4M40W-ijLmZiVS0Swg&s"
+      },
+      {
+        "id": 13,
+        "name": "Mountain Dew",
+        "cost": 120,
+        "image": "https://gharstuff.com/wp-content/uploads/2018/03/mountain-dew.jpg"
+      },
+      {
+        "id": 14,
+        "name": "Pretzels (Salted)",
+        "cost": 200,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwkqres2lkmSgActQL9AALYtNRBomGRzjsQA&s"
+      },
+      {
+        "id": 15,
+        "name": "Slushies (Blue Raspberry)",
+        "cost": 200,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk4fHi8S-LBthH0kdTwErOcVjDByvgjyi3Wg&s"
+      },
+      {
+        "id": 16,
+        "name": "Hot Dogs",
+        "cost": 300,
+        "image": "https://www.thereciperebel.com/wp-content/uploads/2022/04/air-fryer-hot-dogs-TRR-1200-14-of-15.jpg"
+      },
+      {
+        "id": 17,
+        "name": "Caramel Popcorn",
+        "cost": 350,
+        "image": "https://www.recipetineats.com/tachyon/2014/05/Caramel-Popcorn.jpg"
+      },
+      {
+        "id": 18,
+        "name": "Donuts (Glazed)",
+        "cost": 100,
+        "image": "https://www.jocooks.com/wp-content/uploads/2021/05/glazed-donuts-1-2.jpg"
+      },
+      {
+        "id": 19,
+        "name": "Chicken Tenders",
+        "cost": 350,
+        "image": "https://southern-bytes.com/wp-content/uploads/2022/05/crispy-buttermilk-fried-chicken-tenders-on-a-platter.jpeg"
+      },
+      {
+        "id": 20,
+        "name": "Cookies (Chocolate Chip)",
+        "cost": 80,
+        "image": "https://beyondfrosting.com/wp-content/uploads/2019/03/Chewy-Chocolate-Chip-Cookies-139-2.jpg"
+      },
+      {
+        "id": 21,
+        "name": "Corn Dogs",
+        "cost": 250,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoflx_-Vc07xOdKQ0LOBwYa63Py_KVs9K-ig&s"
+      },
+      {
+        "id": 22,
+        "name": "Gummy Candies",
+        "cost": 120,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx10c-7bLmXebtC51tsx_wTV-F07uodRWPYg&s"
+      },
+      {
+        "id": 23,
+        "name": "Cupcakes (Red Velvet)",
+        "cost": 220,
+        "image": "https://www.allrecipes.com/thmb/W5Ou0-fSTAHi5vM9FdJkplRzgNQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/212429-red-velvet-cupcakes-ddmfs-0178-3x4-hero-e5cd9e2684dd4d90b40d9aa0d42e3ee2.jpg"
+      },
+      {
+        "id": 24,
+        "name": "Cinnamon Rolls",
+        "cost": 220,
+        "image": "https://onehotoven.com/wp-content/uploads/2023/03/feature-6.jpg"
+      },
+      {
+        "id": 25,
+        "name": "Soft Pretzel Bites",
+        "cost": 200,
+        "image": "https://sallysbakingaddiction.com/wp-content/uploads/2014/07/homemade-soft-pretzel-bites.jpg"
+      },
+      {
+        "id": 26,
+        "name": "Ice Cream Sandwiches",
+        "cost": 100,
+        "image": "https://sallysbakingaddiction.com/wp-content/uploads/2022/06/chocolate-chip-cookie-ice-cream-sandwiches-1-1.jpg"
+      },
+      {
+        "id": 27,
+        "name": "Chocolate Croissants",
+        "cost": 250,
+        "image": "https://atreatsaffair.com/wp-content/uploads/2015/05/chocolate-croissant-recipe-2.jpg"
+      },
+      {
+        "id": 28,
+        "name": "Mini Sandwiches",
+        "cost": 300,
+        "image": "https://media.istockphoto.com/id/1390922510/photo/small-cheese-sandwich-on-the-table-close-up.jpg?s=612x612&w=0&k=20&c=RmhOqY4BUfDUwRwdchbW6LSeJZHgeOhahNbA41pVfzc="
+      }
+    ]
+    
+  }
+  

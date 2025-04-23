@@ -1,0 +1,10 @@
+.navbar-wrapper {
+    position: relative;
+    z-index: 1000; /* Ensures it's above other content */
+}
+
+.navbar-container {
+    background-color: RGB(2, 117, 221);
+    margin-bottom: 10px;
+    box-shadow: 5px 5px 15px grey;
+}

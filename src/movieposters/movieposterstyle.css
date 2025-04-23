@@ -1,0 +1,114 @@
+@media (max-width: 1024px) {
+    .movie-container {
+        grid-template-columns: repeat(2, 1fr); /* 2 cards per row on medium screens */
+    }
+}
+
+@media (max-width: 600px) {
+    .movie-container {
+        grid-template-columns: repeat(1, 1fr); /* 1 card per row on small screens */
+    }
+}
+
+
+.movie-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* 4 cards per row */
+    gap: 20px;
+    justify-content: center;
+    margin-left: 50px;
+  }
+  
+  .movie-card {
+    max-width: 300px;
+    border: 1px solid #ffffff22;
+    background-color: #282c34;
+    background: linear-gradient(0deg, rgba(40,44,52,1) 0%, rgba(17,0,32,.5) 100%);
+    box-shadow: 0 10px 30px 10px #000000aa;
+    border-radius: 0.7rem;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    overflow: hidden;
+    transition: 0.5s all;
+    text-align: center;
+    padding: 1rem;
+    position: relative;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .movie-card::before {
+    position: absolute;
+    content: "";
+    box-shadow: 0 0 150px 60px #ffffff22;
+    top: -20%;
+    left: -120%;
+    transform: rotate(-45deg);
+    height: 50rem;
+    transition: 0.6s all;
+  }
+  
+  .movie-card:hover {
+    border: 1px solid #ffffff66;
+    box-shadow: 0 15px 60px 20px #000000dd;
+    transform: scale(1.05);
+    filter: brightness(1.5);
+  }
+  
+  .movie-card:hover::before {
+    filter: brightness(0.7);
+    top: -120%;
+    left: 250%;
+  }
+  
+  .movie-image {
+    border-radius: 0.5rem;
+    max-width: 100%;
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .movie-description {
+    margin: 0.5rem 0;
+    color: #a89ec9;
+    font-weight: bold;
+  }
+  
+  .movie-info {
+    display: flex;
+    justify-content: center; /* Center content */
+    align-items: center;
+    color: #a89ec9;
+    text-align: center;
+    flex-direction: column;
+    width: 100%; /* Ensures full width for centering */
+    margin-bottom: -20px;
+  }
+  
+  .movie-rating {
+    display: flex;
+    align-items: center;
+    margin-top: 5px;
+  }
+
+  .movie-stars {
+    margin-bottom: 5px; /* Space before the rating number */
+}
+  
+  .movie-actions {
+   
+    flex-direction: column;
+    gap: 10px; /* Reduce space between buttons */
+    margin-top: 5px; /* Reduce space above buttons */
+  }
+
+  .movie-info, .movie-actions {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    flex-wrap: wrap;
+}
